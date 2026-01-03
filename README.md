@@ -2,7 +2,7 @@
 
 Nama: Fadhil Aulia Rohman  
 NIM: 103012400369
-Kelas: IF-48-06
+KELAS: IF-48-06
 
 Implementasi ADT Stack menggunakan C++ untuk simulasi
 aksi game (ATTACK, DEFENSE, UNDO, REDO) sesuai soal UTS.
