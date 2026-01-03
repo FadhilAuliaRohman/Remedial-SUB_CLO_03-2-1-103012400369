@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1767454781 source:d:\kuliah\semester 3\struktur data\remedial_sub_clo_03-2-1\main.cpp
+	<iostream>
+	"stack.h"
+
+1767455142 d:\kuliah\semester 3\struktur data\remedial_sub_clo_03-2-1\stack.h
+	<string>
+
+1767455007 source:d:\kuliah\semester 3\struktur data\remedial_sub_clo_03-2-1\stack.cpp
+	"stack.h"
+
